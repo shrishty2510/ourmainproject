@@ -55,8 +55,7 @@ nav .wrapper{
   }
 nav input{
   display: none;
-}
-}
+}}
 
 @media (max-height:800px){
 	footer { position: static; }
@@ -238,11 +237,12 @@ footer .media-icons a{
     display: inline-block;
     text-align: center;
 	padding-top: 4px;
+    /* line-height: 43px; */
+    border-radius: 5px;
     border: 2px solid #222222;
     margin: 30px 5px 0 0;
     transition: all 0.3s ease;
 	color:goldenrod;
-	border-radius: 4px;
   }
    .media-icons a:hover{
     border-color: goldenrod;

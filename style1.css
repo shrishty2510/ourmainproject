@@ -8,82 +8,82 @@
 
     #btnm{
         padding: 5px;
-        background-color: darkgreen;
+        background-color: darkcyan;
         color: white;
         text-align: center;
-        width: 7%;
+        width: 7;
         position: absolute;
-        bottom:-65%;
-        left:92%;
+        top:88%;
+        left:95%;
     }
     #btnu{
         padding: 5px;
-        background-color: darkgreen;
+        background-color: darkcyan;
         color: white;
         text-align: center;
-        width: 7%;
+        width: 7;
         position: absolute;
-        bottom:-90%;
-        left:84%
+        top:88%;
+        left:90%;
     }
 
 
     #btns{
         padding: 5px;
-        background-color: darkgreen;
+        background-color: darkcyan;
         color: white;
         text-align: center;
         width: 5%;
         position: absolute;
-        bottom:-65%;
         left:92%;
+        top:85%;
     
         
     
     }
     #btnv{
         padding: 5px;
-        background-color: darkgreen;
+        background-color: darkcyan;
         color: white;
         text-align: center;
-        width: 5%;
+        width: 7;
         position: absolute;
-        bottom:-79%;
-        left:92%;
+        top:88%;
+        left:95%;
     }
     #btn1{
         padding: 5px;
-        background-color: darkgreen;
+        background-color: darkcyan;
         color: white;
         text-align: center;
-        width: 5%;
+        width: 7;
         position: absolute;
-        bottom:-90%;
-        left:92%;
+        top:88%;
+        left:93%;
     }
     
         #btni{
             padding: 5px;
-            background-color: darkgreen;
+            background-color: darkcyan;
             color: white;
             text-align: center;
             width: 7;
             position: absolute;
-            bottom: -65%;
-            left:85%;
+            top:88%;
+            left:92%;
 
         }
     
     #btnn{
         padding: 5px;
-        background-color: darkgreen;
+        background-color: darkcyan;
         color: white;
         text-align: center;
         width: 7;
         position: absolute;
-        bottom: -79%;
-        left:85%;
-    }
+        top:88%;
+        left:92%;
+    } 
     h6{
         text-align: center;
         color:rgb(5, 104, 150);
@@ -162,18 +162,16 @@
 
 #navv ul li.search-icon{
     height: 30px;
-    width:240px;
-    background-color: #f2f2f2;
-    border-radius: 5px;
+    width:289px;
+    background-color: black;
     display: flex;
 
 
 }
 #navv ul li.search-icon input{
     height: 100%;
-    width:350px;
+    width:3500px;
     border: none;
-    border-radius: 5px 0 0 5px;
     outline:none;
     padding:0 10px;
     color:blue;
@@ -202,7 +200,7 @@
     text-align: center;
     line-height: 42px;
     border:1px solid #151515;
-    border-radius: 5px;
+    border-radius:5px;
     cursor: pointer;
 }
 #navv ul li.btn:hover span:before{
